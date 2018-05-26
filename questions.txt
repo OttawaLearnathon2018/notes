@@ -1,3 +1,4 @@
-Avenues of inestigation
+Avenues of investigation
 - What is the relationship between reservations and visits? For HPG we only have reservation data
 - Can reservations better predict visits?
+- What is the relationship between the time people reserve and the time people show up? Is this relevant?
